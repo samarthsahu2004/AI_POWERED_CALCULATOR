@@ -9,7 +9,7 @@ import ast
 
 # ─────────────────────────────────────────────
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAO6GWzefLDXqr6RX9-tfpWdRSTE2D9Mf0")  # Replace with your actual Gemini API key
+genai.configure(api_key=<ENTER YOUR API KEY>)  # Replace with your actual Gemini API key
 
 # ─────────────────────────────────────────────
 # Streamlit UI
