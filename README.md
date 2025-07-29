@@ -1,6 +1,7 @@
 # AI_POWERED_CALCULATOR
 I-PAD MATHS NOTES CLONE
- Tech Stack used : Python, Streamlit and Selenium
+ Tech Stack used : Python, Streamlit and Image
+ 
 
  It is GEMINI FLASH API based AI Calculator that brings your drawing into life
  It uses your API key and also it uses streamlit 
